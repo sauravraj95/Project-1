@@ -10,3 +10,5 @@ JavaScript ES6/ES7 Project
 4. Asynchronous JavaScript used : Async and await AJAX calling used for API calling/handling.
 
 5. Many modern methods of ES6 and ES6+ are also included in this project.
+
+6. you can simply clone whole reposetry or except for node_model and just use package.json for installing npm, as I have included node_model also for the convenience.  
